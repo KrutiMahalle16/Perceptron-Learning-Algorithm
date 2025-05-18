@@ -32,4 +32,14 @@ NumPy
 
 Matplotlib (for optional visualization)
 
+## 📈 Output Examples
+Weight vectors and final decision boundaries
+
+Number of separable class combinations
+
+Convergence plots of accuracy vs epochs
+
+## ✅ Conclusion
+This project gives hands-on understanding of the Perceptron Learning Algorithm, especially for 3D data. It shows how the model converges, which class combinations are linearly separable, and how hyperparameters affect training. A strong foundation for understanding neural networks and classification theory.
+
 
