@@ -8,3 +8,9 @@ Implements the single-layer perceptron for 3D inputs.
 Classifies data into two binary classes.
 
 Weights are updated iteratively until convergence (or maximum epochs).
+### 2b: Linearly Separable Combinations
+Given a dataset of 3D points, the program generates all binary class combinations.
+
+Determines which combinations are linearly separable using the perceptron.
+
+Useful for evaluating dataset structure and learning feasibility.
