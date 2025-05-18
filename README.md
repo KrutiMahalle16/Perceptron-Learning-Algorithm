@@ -14,3 +14,14 @@ Given a dataset of 3D points, the program generates all binary class combination
 Determines which combinations are linearly separable using the perceptron.
 
 Useful for evaluating dataset structure and learning feasibility.
+
+### 2c: Convergence and Learning Rate Analysis
+Tests different learning rates (e.g., 0.01 to 1.0) and epoch limits.
+
+Tracks:
+
+Number of epochs to convergence
+
+Final classification accuracy
+
+Useful for tuning perceptron performance and visualizing convergence behavior
