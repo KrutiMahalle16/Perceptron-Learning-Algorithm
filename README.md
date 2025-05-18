@@ -25,3 +25,11 @@ Number of epochs to convergence
 Final classification accuracy
 
 Useful for tuning perceptron performance and visualizing convergence behavior
+### 🔧 Technologies Used
+Python 3.x
+
+NumPy
+
+Matplotlib (for optional visualization)
+
+
